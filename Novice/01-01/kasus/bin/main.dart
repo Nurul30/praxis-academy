@@ -1,9 +1,9 @@
-import '../lib/Kasus.dart' as Kasus;
+import '../lib/kasus.dart' as kasus;
 
 
 
 void main(List<String> arguments) {
-  print('Hello world: ${Kasus.calculate()}!');
+  print('Hello world: ${kasus.calculate()}!');
 
   var name = 'Voyager I';
     var year = 1977;
