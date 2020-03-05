@@ -11,11 +11,7 @@ void main(){
     lst[2] = 9;
     print(lst);
     print(lst[1]);
-
-    /* 
-   * lst[1] itu digunakan untuk memanggil suatu element pada list, 
-   * dengan 1 sebagai index 
-   */
+    
 }
 
 **Map**
