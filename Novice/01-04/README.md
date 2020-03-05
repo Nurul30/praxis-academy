@@ -6,6 +6,7 @@ Contoh :
 
 void main(){
     var lst = new List(3);
+    
     lst[0] = 4;
     lst[1] = 6;
     lst[2] = 9;
