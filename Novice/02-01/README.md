@@ -13,4 +13,18 @@ Flutter adalah SDK untuk mengembangkan aplikasi mobile yang dikembangkan oleh Go
  d. Lakukan debugging pada handphone
   
  e. Tampilan awal dari flutter sudah jadi
+
+ Tampilan Default Flutter :
+
+ ![image 1](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-01/gambar1.jpeg)
+
+ Tampilan Hello Word :
+
+ ![image 2](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-01/gambar2.jpeg)
+
+ Tampilan List View Scrolling :
+
+ ![image 3](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-01/gambar3.jpeg)
+
+
   
