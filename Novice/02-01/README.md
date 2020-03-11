@@ -4,7 +4,12 @@ Flutter adalah SDK untuk mengembangkan aplikasi mobile yang dikembangkan oleh Go
 
  Peralatan yang diperlukan :
  a. Perintah Flutter Doctor : Android SDK serta congig plugin di Android Studio, License, dan Flutter SDK
+  
  b. Install Flutter
+  
  c. Install dart
+  
  d. Lakukan debugging pada handphone
+  
  e. Tampilan awal dari flutter sudah jadi
+  
