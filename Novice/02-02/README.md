@@ -4,21 +4,21 @@
 
  Tampilan Hello World :
 
- ![image 1](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-02/gambar1.jpeg)
+ ![image 1](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-02/gambar1.jpeg)
 
  Tampilan Basic Widgets :
 
- ![image 2](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-02/gambar2.jpeg)
+ ![image 2](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-02/gambar2.jpeg)
 
  Tampilan Basicnav Rout :
 
- ![image 3](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-02/gambar3.jpeg)
+ ![image 3](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-02/gambar3.jpeg)
 
  Tampilan Button stf :
 
- ![image 4](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-02/gambar4.jpeg)
+ ![image 4](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-02/gambar4.jpeg)
 
  Tampilan Stateless Widgets :
 
- ![image 5](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-02/gambar5.jpeg)
+ ![image 5](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-02/gambar5.jpeg)
 
