@@ -24,7 +24,7 @@ Flutter adalah SDK untuk mengembangkan aplikasi mobile yang dikembangkan oleh Go
 
  Tampilan List View Scrolling :
 
- ![image 3](https://github.com/Nurul30/praxis-academy/tree/master/Novice/02-01/gambar3.jpeg)
+ ![image 3](https://github.com/Nurul30/praxis-academy/blob/master/Novice/02-01/gambar3.jpeg)
 
 
   
